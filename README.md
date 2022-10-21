@@ -8,3 +8,5 @@ Paso 2) Crear un archivo holaclase.py en github
 Paso 3) En este archivo escribir print("Hola Mundo")
 
 Paso 4) Compilar el codigo ejecutando el git clone https://github.com/Papapof/MiPrimerRepositorio desde la consola del simbolo de sistema
+
+Paso 5) dirigirse a la ruta de MiPrimerRepositorio y ejecutar el archivo holaclase.py
